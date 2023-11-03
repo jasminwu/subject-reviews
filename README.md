@@ -5,7 +5,9 @@ Keep in mind that these are just my opinions, and that your experience may diffe
 
 
 ## Table of Contents
-- First Year Courses
+- Core Courses
   - [COMP1521](comp1521.md)
   - [COMP1531](comp1531.md)
   - [COMP2521](comp2521.md)
+  - [COMP2511]
+  - [COMP3121]
