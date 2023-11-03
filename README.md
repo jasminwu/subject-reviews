@@ -9,5 +9,5 @@ Keep in mind that these are just my opinions, and that your experience may diffe
   - [COMP1521](comp1521.md)
   - [COMP1531](comp1531.md)
   - [COMP2521](comp2521.md)
-  - [COMP2511]
-  - [COMP3121]
+  - [COMP2511](comp2511.md)
+  - [COMP3121](comp3121.md)
